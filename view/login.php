@@ -11,8 +11,10 @@
     <table border= "2px" class="banner">
         <tr>
             <td colspan="5">
-            <div id="img-banner">
-                <a href="#">asdasdasdadas</a>
+            
+            <img src="./img/qq.jpg"heigh='100px' width='1000px' alt="">
+            <div>
+                <a href="#">https://github.com/vietnguyenvic/NguyenHoangBaoViet.git</a>
             </div>
             </td>
         </tr>

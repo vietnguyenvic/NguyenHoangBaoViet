@@ -13,7 +13,6 @@
             <td colspan="5">
             <img src="./img/qq.jpg"heigh='100px' width='1000px' alt="">
             </td>
-            x
             </tr>
             
             <tr>

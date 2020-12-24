@@ -8,9 +8,8 @@
 }
 #banner-img{
     background-image: url(../img/banner.jpg) ;
-    height: 1000px;
-    width: 100px;
-    background-size: cover;
+    height: 10px;
+    width: 10px;
 }
 body 
 {   
