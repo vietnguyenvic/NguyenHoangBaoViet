@@ -108,6 +108,7 @@
             <?php
             }} 
         }
+        //tìm theo thứ tự các trang
         else if($_POST["submit"]=="Tăng dần"){
             foreach($dssptang as $laptop) {
                 if(is_numeric(strpos($laptop["ten"],$_POST["keyword"]))){
