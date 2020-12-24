@@ -1,0 +1,78 @@
+.register{
+    margin-right:265px;
+    border: 2px solid black;
+    width: 90px;
+    height: 210px;
+    padding-right: 270px;
+    font-family: Comic Sans MS;
+}
+#banner-img{
+    background-image: url(../img/banner.jpg) ;
+    height: 1000px;
+    width: 100px;
+    background-size: cover;
+}
+body 
+{   
+    background-color: pink;
+}
+.list{
+    display:flex;
+    flex-wrap: wrap;
+    font-family: Comic Sans MS;
+}
+.item{
+    justify-content: space-around;
+    width: 30%;
+    height: 400px;
+    /* background-image: url("../img/imgitem.jpg"); */
+    background-color: white;
+    margin:1%;
+    border-radius: 50px;
+    text-align: center;
+    font-family: Comic Sans MS;
+    border: 2px solid black;
+
+
+}
+.content{
+   margin:auto;
+   margin-top: 50px;
+   font-family: Comic Sans MS;
+}
+#img-banner{
+    width:100%;
+    height: 300px;
+    background-image:  url('../img/banner.jpg');
+    background-color: black;
+    font-family: Comic Sans MS;
+}
+
+.banner{
+    margin:10px;
+    text-align: center;
+    width:100%;
+    background-color: black;
+    justify-content: flex-start;
+    font-family: Comic Sans MS;
+}
+
+.container{
+    margin:auto;
+    width:1000px;
+ /* border:22px solid black; */ 
+    font-family: Comic Sans MS;
+}
+.img{
+    width:295px;
+    height: 200px; 
+    font-family: Comic Sans MS;
+}
+.login{   
+        margin-right:265px;
+        border: 2px solid black;
+        width: 90px;
+        height: 210px;
+        padding-right: 270px;
+        font-family: Comic Sans MS;
+}
