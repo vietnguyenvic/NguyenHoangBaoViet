@@ -13,6 +13,7 @@
             <td colspan="5">
             <img src="./img/qq.jpg"heigh='100px' width='1000px' alt="">
             </td>
+            
             </tr>
             
             <tr>
@@ -20,7 +21,10 @@
                 <td><a href="index.php?ctrl=screenuser&func=index"><button>Trang chủ</button></a></td>
                 <td><a href="index.php?ctrl=screenuser&func=index"><button>Máy tính</button></a></td>
                 <td><a href="index.php?ctrl=loa&func=index"><button>Loa</button></a></td>
-                <td><a href="index.php?ctrl=tablet&func=index"><button>Tablet</button></a></td>    
+                <td><a href="index.php?ctrl=tablet&func=index"><button>Tablet</button></a></td>
+
+                
+       
             </tr>
         </table>
         <header>
